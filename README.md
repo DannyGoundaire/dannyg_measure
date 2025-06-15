@@ -38,8 +38,7 @@ Since this Code is written in German, you are allowed to edit it BUT NOT redistr
 
 # Installation
 * Download the Script
-* rename the folder "dannyg_measure" if necessary
-* Drag and Drop it into your "resources" folder
+* Drag and Drop the dannyg_measure folder into your "resources" folder
 * Add "ensure dannyg_measure" to your "server.cfg"
 * Add an Item named "measuringtape" to your inventory 
 * Restart your server!
